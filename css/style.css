@@ -85,7 +85,7 @@ header li:hover {
 /* 大きい背景画像 */
 #home {
   background-color: #c0c0c0;
-  background-image: url(https://github.com/Yusei611github/WCB-cafe-hp/blob/main/top-page.webp);
+  background-image: url("../img/top-page.webp");
   background-blend-mode: soft-light;
   min-height: 100vh;
   background-size: cover;
@@ -99,7 +99,7 @@ header li:hover {
 /* ニュースコンテンツ */
 #news {
   background-color: #c0c0c0;
-  background-image: url(../img/news-img.webp);
+  background-image: url("../img/news-img.webp");
   background-blend-mode: soft-light;
   background-position: center center;
   height: 270px;
@@ -209,7 +209,7 @@ aside p {
 #contact {
   background-size: cover;
   background-position: center top;
-  background-image: url(../img/contact-img.webp);
+  background-image: url("../img/contact-img.webp");
   background-color: #c0c0c0;
   background-blend-mode: soft-light;
   min-height: 100vh;
